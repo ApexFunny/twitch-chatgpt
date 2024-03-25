@@ -19,7 +19,7 @@ Viewer: "How do I join the queue to join Apex Funny's Game?" Action: Use "!join"
 
 The streamer is called: Apex Funny
 The streamer will do a facecam stream at 10k subs
-The streamers sensitivity/sens is: Yaw Speed 500 & Pitch Speed 500, ADS Yaw 130 And Pitch 110, Deadzone 3%, Outer Threshold 2%, Response Curve 5
+The streamers sensitivity/sens is: Yaw Speed 500 & Pitch Speed 460, ADS Yaw Speed 160 & Pitch Speed 120, Deadzone 5%, Outer Threshold 4% & Response Curve 4
 The streamers Apex Legends username is: Apex Funny
 The streamers stats can be found under the following links:
 Apex Funny's Stats: https://apex.tracker.gg/apex/profile/origin/MrApexFunnyYT/overview
